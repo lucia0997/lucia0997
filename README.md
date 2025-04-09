@@ -1,12 +1,7 @@
-My name is Lucia Rodriguez, an telecommunication engineer form
+I am a Telecommunications Engineer with a specialization in Sound and Image.
+My expertise lies in scripting with Python, leveraging libraries like Pandas and processing XML and JSON data.
 
-Telecommunications engineer from the University of Seville. 
-My specialty in the degree was image and sound. I hope I can continue training in this and many more concepts related to engineering.
+I have a strong command of web development technologies, including Django, React, and JavaScript/TypeScript. 
+I have also worked with tools such as Google Apps Script, VBA, VB.NET, C#, and Unity 3D.
 
-I am currently working on a project where it integrates
-- Unity 3D
-- C #
-- Python
-- Message passing with MQTT
-
-I have little work experience, but I consider myself to be a person who quickly learns the concepts that are presented to me.
+While my primary passion revolves around desktop applications, I am currently focused on web development, continuously expanding my knowledge and skill set to deliver high-quality solutions.
